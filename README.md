@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--
-**AlinaPathan/AlinaPathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**# Hi there! 👋
+
+I am a passionate web developer currently diving deep into React.js. I love exploring new technologies and leveraging them to solve real-life problems. 🚀
+
 
 Here are some ideas to get you started:
 
